@@ -1,0 +1,7 @@
+C:\Users\Luis\Documents\UPI\II Cuatri 2024\Progra ll\Examen I\gestion_servicios_examen_1\gestion_servicios_examen_1\bin\Debug\gestion_servicios_examen_1.exe.config
+C:\Users\Luis\Documents\UPI\II Cuatri 2024\Progra ll\Examen I\gestion_servicios_examen_1\gestion_servicios_examen_1\bin\Debug\gestion_servicios_examen_1.exe
+C:\Users\Luis\Documents\UPI\II Cuatri 2024\Progra ll\Examen I\gestion_servicios_examen_1\gestion_servicios_examen_1\bin\Debug\gestion_servicios_examen_1.pdb
+C:\Users\Luis\Documents\UPI\II Cuatri 2024\Progra ll\Examen I\gestion_servicios_examen_1\gestion_servicios_examen_1\obj\Debug\gestion_servicios_examen_1.csproj.AssemblyReference.cache
+C:\Users\Luis\Documents\UPI\II Cuatri 2024\Progra ll\Examen I\gestion_servicios_examen_1\gestion_servicios_examen_1\obj\Debug\gestion_servicios_examen_1.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\UPI\II Cuatri 2024\Progra ll\Examen I\gestion_servicios_examen_1\gestion_servicios_examen_1\obj\Debug\gestion_servicios_examen_1.exe
+C:\Users\Luis\Documents\UPI\II Cuatri 2024\Progra ll\Examen I\gestion_servicios_examen_1\gestion_servicios_examen_1\obj\Debug\gestion_servicios_examen_1.pdb
